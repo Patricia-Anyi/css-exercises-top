@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.buttonone,.buttontwo{
+    font-family: Helvetica, "Times New Romen" sans-serif;
+    font-size: 28PX;
+}
+.buttonone{
+    background-color: #000000;
+    color: white;
+}
+.buttontwo{
+    background-color: rgb(255,217,102);
+}
