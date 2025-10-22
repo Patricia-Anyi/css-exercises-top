@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.numbera{
+    background-color: #FFC0CB;
+    font-style: verdana, "DejaVu sans", sans serif ;
+}
+#numberb{
+    color: rgb(0, 15, 255);
+    font-size: 36px;
+}
+.numberc{
+    background-color: #FFC0CB;
+    font-size: 24px;
+    font-weight: bold;
+}
+#numberd{
+    background-color: #00FF00;
+    font-size: 24px;
+}
+.numbere{
+    background-color: hsl(329, 63%, 85%);
+}
